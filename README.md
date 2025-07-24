@@ -1,4 +1,4 @@
-# COE-in-Singapore---2024
+# COE-in-Singapore-2024
 
 ## Usage
 
